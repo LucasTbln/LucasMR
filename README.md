@@ -1,13 +1,13 @@
-##LucasMR.github.io  
+## LucasMR.github.io  
 
-###Páxinas de Todo en todo momento en todo lugar  
+### Páxinas de Todo en todo momento en todo lugar  
 
 [Versión 0 sen CSS](https://LucasMR.github.io/v0)  
 [Versión 1, con CSS](https://LucasMR.github.io/v1)  
 [Versión 2.1,plantilla orixinal](https://LucasMR.github.io/v2.1)  
 [Versión 2.2, actualizada](https://LucasMR.github.io/v2.2)  
 
-###Lista das propiedades CSS usadas  
+### Lista das propiedades CSS usadas  
 1. Margin
 2. Padding
 3. Font-family
@@ -32,7 +32,7 @@
 22.Position  
 23.Float  
 24.Border  
-25.Border-style
-26.Border-color
-27.Transition
-28.Opacity
+25.Border-style  
+26.Border-color  
+27.Transition  
+28.Opacity  

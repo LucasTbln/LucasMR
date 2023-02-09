@@ -16,22 +16,22 @@
 6. Color
 7. Background-color
 8. Margin-left
-9. Margin-right
-10.Padding-bottom
-11.Justify-content
-12.Display
-13.Padding-top
-14.Margin-bottom
-15.Font-size
+9. Margin-right  
+10.Padding-bottom  
+11.Justify-content  
+12.Display  
+13.Padding-top  
+14.Margin-bottom  
+15.Font-size  
 16.Text-decoration
-17.Text-align
-18.Border-radius
-19.Background
-20.Margin-top
-21.Height
-22.Position
-23.Float
-24.Border
+17.Text-align  
+18.Border-radius  
+19.Background  
+20.Margin-top  
+21.Height   
+22.Position  
+23.Float  
+24.Border  
 25.Border-style
 26.Border-color
 27.Transition
